@@ -1,4 +1,9 @@
 ### Study_Algo
+* [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)(21.01.09)
+
+1. (a+1)(b+1)(c+1)...-1
+2. map처럼 다른 컨테이너 사용법 익히기
+_________________
 * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)(21.01.09)
 
 1. deque를 많이 쓰는 풀이가 보였다. 복잡하진 않고 노가다로 새로 deque만들어서 하나씩 받는듯
