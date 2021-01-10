@@ -1,4 +1,8 @@
 ### Study_Algo
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)(21.01.10)
+
+1. stoi(string s) 이용할때 s가 null일때 coredump가 일어났음
+_________________
 * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)(21.01.09)
 
 1. (a+1)(b+1)(c+1)...-1
