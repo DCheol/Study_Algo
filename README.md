@@ -1,4 +1,8 @@
 ### Study_Algo
+* [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)(21.01.13)
+
+1. 재귀함수가 나타날 타이밍에서 헷갈려 힘들었다. (분할 + 정복)
+_________________
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)(21.01.10)
 
 1. stoi(string s) 이용할때 s가 null일때 coredump가 일어났음
