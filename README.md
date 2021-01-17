@@ -1,5 +1,5 @@
 ### Study_Algo
-* [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)(21.01.13)
+* [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)(21.01.16)
 
 1. 미리할걸.. 눈이 아프다
 _________________
