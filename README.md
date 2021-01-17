@@ -1,4 +1,8 @@
 ### Study_Algo
+* [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)(21.01.13)
+
+1. 미리할걸.. 눈이 아프다
+_________________
 * [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)(21.01.13)
 
 1. 재귀함수가 나타날 타이밍에서 헷갈려 힘들었다. (분할 + 정복)
