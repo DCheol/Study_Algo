@@ -1,4 +1,7 @@
 ### Study_Algo
+* [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860#)(21.01.18)
+1. 문제 오류가 있다. greed 알고리즘은 항상 최선을 찾는게 아니다.("BBBBAAAAAB" -> 10)
+_________________
 * [문자열 냐 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)(21.01.17)
 _________________
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)(21.01.16)
