@@ -1,6 +1,10 @@
 ### Study_Algo
+* [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048#)(21.01.22)
+1. int와 long타입을 계산할경우, 표현방법에 차이가 있으니 overflow를 조심해야한다.
+_________________
 * [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860#)(21.01.18)
 1. 문제 오류가 있다. greed 알고리즘은 항상 최선을 찾는게 아니다.("BBBBAAAAAB" -> 10)
+2. 해결방법으로 DFS+greed로 갈림길의 상황을 모두 체크해볼것(by alswo)
 _________________
 * [문자열 냐 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)(21.01.17)
 _________________
