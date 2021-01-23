@@ -1,4 +1,6 @@
 ### Study_Algo
+* [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587#)(21.01.23)
+_________________
 * [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048#)(21.01.22)
 1. int와 long타입을 계산할경우, 표현방법에 차이가 있으니 overflow를 조심해야한다.
 _________________
