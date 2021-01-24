@@ -1,4 +1,6 @@
 ### Study_Algo
+* [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)(21.01.24)
+_________________
 * [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587#)(21.01.23)
 _________________
 * [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048#)(21.01.22)
