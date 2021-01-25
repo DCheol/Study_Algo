@@ -1,4 +1,6 @@
 ### Study_Algo
+* [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)(21.01.25)
+_________________
 * [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)(21.01.24)
 _________________
 * [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587#)(21.01.23)
