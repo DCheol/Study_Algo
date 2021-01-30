@@ -1,5 +1,6 @@
 ### Study_Algo
 * [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)(21.01.30)
+1. 역시 규칙이 있었다
 _________________
 * [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)(21.01.30)
 1. 전역변수 초기화해야한단다.
