@@ -1,9 +1,12 @@
 ### Study_Algo
+* [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)(21.01.30)
+_________________
 * [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)(21.01.30)
 1. 전역변수 초기화해야한단다.
 2. & 혹은 전역변수 등을 이용해서 참조에 걸리는 시간을 줄이자
 _________________
 * [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)(21.01.30)
+몰아치기 시작..
 _________________
 * [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)(21.01.25)
 _________________
