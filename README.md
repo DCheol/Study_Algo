@@ -1,4 +1,6 @@
 ### Study_Algo
+* [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)(21.02.01)
+_________________
 * [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586#)(21.01.31)
 _________________
 * [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)(21.01.30)
