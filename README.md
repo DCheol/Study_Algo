@@ -1,4 +1,10 @@
 ### Study_Algo
+* [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)(21.02.07)
+_________________
+* [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)(21.02.07)
+_________________
+* [포켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)(21.02.06)
+_________________
 * [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)(21.02.06)
 _________________
 * [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)(21.02.01)
